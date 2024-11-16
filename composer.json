@@ -32,7 +32,7 @@
         "mockery/mockery": "dev-master",
         "phpunit/phpunit": "~7.0 || ^8",
         "squizlabs/php_codesniffer" : "1.5.*",
-        "laravel/laravel": "^5.6 || ^6.0",
+        "laravel/laravel": "^5.6 || ^6.0 || ^7.0  || ^10.0",
         "php-coveralls/php-coveralls": "^2.1"
     },
     "autoload": {
